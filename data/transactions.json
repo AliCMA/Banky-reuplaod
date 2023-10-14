@@ -1,0 +1,72 @@
+{
+    "Bankrekening": [
+        {
+            "from/to": "KoningAli",
+            "amouth": 10,
+            "logo": "house"
+        },
+        {
+            "from/to": "KoningAli",
+            "amouth": 100
+        },
+        {
+            "from/to": "KoningAli",
+            "amouth": 1009
+        },
+        {   
+            "from/to": "KoningAli",
+            "amouth": -20
+        },
+        {
+            "from/to": "KoningAli",
+            "amouth": -650
+        },
+        {
+            "from/to": "KoningAli",
+            "amouth": 450
+        },
+        {
+            "from/to": "KoningAli",
+            "amouth": -20
+        },
+        {
+            "from/to": "KoningAli",
+            "amouth": -20
+        },
+        {
+            "from/to": "KoningAli",
+            "amouth": 234
+        },
+        {
+            "from/to": "KoningAli",
+            "amouth": 787
+        },
+        {
+            "from/to": "KoningAli",
+            "amouth": 500
+        }
+    ],
+    "ZZP-Rekening": [
+        {
+            "from/to": "CEX",
+            "amouth": 10000,
+            "logo": "sack-dollar"
+        },
+        {
+            "from/to": "SpaceX",
+            "amouth": -10000
+        }
+    ],
+
+    "ZZP-Rekening-2": [
+        {
+            "from/to": "MA College",
+            "amouth": 20000,
+            "logo": "building"
+        },
+        {
+            "from/to": "Microsoft",
+            "amouth": 200000
+        }
+    ]
+}
